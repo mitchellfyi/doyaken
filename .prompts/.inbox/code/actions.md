@@ -1,6 +1,6 @@
 ---
-id: code
-variant: actions
+id: code/actions.default
+variant: default
 title: CI - design and maintain GitHub Actions workflows (thin YAML, scripts as truth)
 tags: [github-actions, ci, workflows, automation, scripts, security, caching]
 inputs:
