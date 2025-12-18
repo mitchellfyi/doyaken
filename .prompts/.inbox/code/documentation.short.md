@@ -1,6 +1,6 @@
 ---
-id: code
-variant: docs_short
+id: code/documentation.short
+variant: short
 title: Docs (short)
 tags: [docs]
 inputs:
