@@ -1,5 +1,5 @@
 ---
-id: code
+id: code.short
 variant: short
 title: Code - build, fix, improve, review (short)
 tags: [code]
