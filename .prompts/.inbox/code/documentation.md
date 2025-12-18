@@ -1,6 +1,6 @@
 ---
-id: code
-variant: docs
+id: code/documentation.default
+variant: default
 title: Code Docs - keep documentation and agent instructions in sync
 tags: [docs, agents, comments, adr]
 inputs:
