@@ -9,6 +9,8 @@ inputs:
     type: textarea
 ---
 
+Work on {{what}}.
+
 Define "done" from CI/scripts/lint/tests. No hacks - fix root causes. 
 For each item: restate, implement smallest clean change, add/adjust tests, update docs.
 Apply DRY/SOLID/KISS/YAGNI. 
